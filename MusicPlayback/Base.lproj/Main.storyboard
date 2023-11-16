@@ -131,7 +131,7 @@
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="plain" title="&lt;&lt;"/>
                                         <connections>
-                                            <action selector="backwardButtonAction" destination="Xvv-hR-brH" eventType="touchUpInside" id="vYm-Ln-fve"/>
+                                            <action selector="backwardButtonAction:" destination="Xvv-hR-brH" eventType="touchUpInside" id="4xv-Gn-Rx0"/>
                                         </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Kb-um-jDM">
@@ -147,7 +147,7 @@
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="plain" title="&gt;&gt;"/>
                                         <connections>
-                                            <action selector="forwardButtonAction" destination="Xvv-hR-brH" eventType="touchUpInside" id="Rqf-ek-SQV"/>
+                                            <action selector="forwardButtonAction:" destination="Xvv-hR-brH" eventType="touchUpInside" id="QWK-WS-Iel"/>
                                         </connections>
                                     </button>
                                 </subviews>
